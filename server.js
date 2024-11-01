@@ -23,7 +23,7 @@ app.post("/mail-request", async (req, res) => {
   });
   const forHer = {
     from: "One and Only Adi! Sir drdwyn1@gmail.com",
-    to: "arsrivastawa2710@gmail.com",
+    to: "kumarishivangi65782@gmail.com",
     html: "Dear <b>Queen👑</b>,<br/> <br/>Thinking of you today as tera b'day h jaaneman💕... Or soch soch kr pagal ho rkhe h ki kb mil rhi ho... 🥹<br/><br/>Happy Birthday to the most special person in my life! 🌹✨ I hope your day is filled with as much joy and warmth as you've brought into my life. You're a wonderful soul, and I feel lucky to have someone as amazing as you to care about. May this year bring you closer to your dreams, and may all your days be as bright and beautiful as you are.<br/><br/>Wishing you nothing but happiness today and always<br/><br/>By the way whenever we meet, let's go somewhere you say baaki hm to soch hi rhe h🤞<br/><br/>Calmless, impatient still loving & caring<br/>∆ <| ! tya Srivastava<br/><br/>ENCLOSURE: Lots of love and wishes for the day...",
     subject: "Emergency Alert: A Gorgeous Soul Turns a Year Older!",
   };
