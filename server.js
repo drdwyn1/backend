@@ -45,7 +45,7 @@ app.post("/mail-request", async (req, res) => {
       console.log(error);
     } else {
       console.log("Email sent: " + info.response);
-    }
+    } 
   });
   res.send("Email sent");
 });
